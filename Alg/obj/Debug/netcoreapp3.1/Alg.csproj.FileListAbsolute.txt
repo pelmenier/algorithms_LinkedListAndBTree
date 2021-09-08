@@ -1,0 +1,13 @@
+C:\Users\Nikita\source\repos\Alg\Alg\bin\Debug\netcoreapp3.1\Alg.exe
+C:\Users\Nikita\source\repos\Alg\Alg\bin\Debug\netcoreapp3.1\Alg.deps.json
+C:\Users\Nikita\source\repos\Alg\Alg\bin\Debug\netcoreapp3.1\Alg.runtimeconfig.json
+C:\Users\Nikita\source\repos\Alg\Alg\bin\Debug\netcoreapp3.1\Alg.runtimeconfig.dev.json
+C:\Users\Nikita\source\repos\Alg\Alg\bin\Debug\netcoreapp3.1\Alg.dll
+C:\Users\Nikita\source\repos\Alg\Alg\bin\Debug\netcoreapp3.1\Alg.pdb
+C:\Users\Nikita\source\repos\Alg\Alg\obj\Debug\netcoreapp3.1\Alg.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\Alg\Alg\obj\Debug\netcoreapp3.1\Alg.AssemblyInfoInputs.cache
+C:\Users\Nikita\source\repos\Alg\Alg\obj\Debug\netcoreapp3.1\Alg.AssemblyInfo.cs
+C:\Users\Nikita\source\repos\Alg\Alg\obj\Debug\netcoreapp3.1\Alg.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\Alg\Alg\obj\Debug\netcoreapp3.1\Alg.dll
+C:\Users\Nikita\source\repos\Alg\Alg\obj\Debug\netcoreapp3.1\Alg.pdb
+C:\Users\Nikita\source\repos\Alg\Alg\obj\Debug\netcoreapp3.1\Alg.genruntimeconfig.cache
