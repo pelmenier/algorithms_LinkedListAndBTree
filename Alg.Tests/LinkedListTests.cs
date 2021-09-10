@@ -1,11 +1,9 @@
-using Alg.Model;
-using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace Alg.Tests
 {
     [TestClass]
-    public class UnitTest1
+    public class LinkedListTests
     {
         [TestMethod]
         public void Swap_1on4()
